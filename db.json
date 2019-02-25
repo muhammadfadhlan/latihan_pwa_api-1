@@ -1,0 +1,123 @@
+{
+  "mahasiswa" : [{
+  "id": 1,
+  "name": "Gipsy Wemyss",
+  "gender": "Female"
+}, {
+  "id": 2,
+  "name": "Louella Forsythe",
+  "gender": "Female"
+}, {
+  "id": 3,
+  "name": "Wendeline Hryniewicki",
+  "gender": "Female"
+}, {
+  "id": 4,
+  "name": "Anestassia Skews",
+  "gender": "Female"
+}, {
+  "id": 5,
+  "name": "Baxy Bravery",
+  "gender": "Male"
+}, {
+  "id": 6,
+  "name": "Debi Poundford",
+  "gender": "Female"
+}, {
+  "id": 7,
+  "name": "Merill Fergyson",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "name": "Larisa Kingaby",
+  "gender": "Female"
+}, {
+  "id": 9,
+  "name": "Christabella Jerratsch",
+  "gender": "Female"
+}, {
+  "id": 10,
+  "name": "Igor Shirrell",
+  "gender": "Male"
+}, {
+  "id": 11,
+  "name": "Violante Heynel",
+  "gender": "Female"
+}, {
+  "id": 12,
+  "name": "Marrilee Wytchard",
+  "gender": "Female"
+}, {
+  "id": 13,
+  "name": "Jenn Houndsom",
+  "gender": "Female"
+}, {
+  "id": 14,
+  "name": "Marlow Persich",
+  "gender": "Male"
+}, {
+  "id": 15,
+  "name": "Kirsteni Ashling",
+  "gender": "Female"
+}, {
+  "id": 16,
+  "name": "Jamill Dowzell",
+  "gender": "Male"
+}, {
+  "id": 17,
+  "name": "Loren Redholes",
+  "gender": "Female"
+}, {
+  "id": 18,
+  "name": "Curtice Bolton",
+  "gender": "Male"
+}, {
+  "id": 19,
+  "name": "Vidovik Poolman",
+  "gender": "Male"
+}, {
+  "id": 20,
+  "name": "Karleen Escoffier",
+  "gender": "Female"
+}, {
+  "id": 21,
+  "name": "Gerta Klementz",
+  "gender": "Female"
+}, {
+  "id": 22,
+  "name": "Burgess Baggalley",
+  "gender": "Male"
+}, {
+  "id": 23,
+  "name": "Leland Iglesia",
+  "gender": "Male"
+}, {
+  "id": 24,
+  "name": "Stefano Pappi",
+  "gender": "Male"
+}, {
+  "id": 25,
+  "name": "Lilly Blazey",
+  "gender": "Female"
+}, {
+  "id": 26,
+  "name": "Von Yalden",
+  "gender": "Male"
+}, {
+  "id": 27,
+  "name": "Kathi Nys",
+  "gender": "Female"
+}, {
+  "id": 28,
+  "name": "Thadeus Collens",
+  "gender": "Male"
+}, {
+  "id": 29,
+  "name": "Seth Scrine",
+  "gender": "Male"
+}, {
+  "id": 30,
+  "name": "Janey Nuttall",
+  "gender": "Female"
+}]
+}
